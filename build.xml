@@ -87,11 +87,12 @@
 
 <fileset dir="${result.testclasses.dir}">
 
-<include name="**/*Test.class"/>
+<include name="**/*Calculater.class"/>
 
 </fileset>
 
 </batchtest>
+
 
 </junit>
 
